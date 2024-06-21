@@ -2,14 +2,14 @@
   <img alt="Logo" src="https://github-production-user-asset-6210df.s3.amazonaws.com/140221270/261695020-61a17c2f-b790-434e-b8c4-d85a398a4830.png" width="100" />
 </div>
 <h1 align="center">
-  ethan-alex-benny.vercel.app - v1
+  sam-wade-portfolio.vercel.app - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://erielle-joeshua-bancolita.vercel.app/" target="_blank">sam-wade.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://sam-wade-portfolio.vercel.app/" target="_blank">sam-wade-portfolio.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 <p align="center">
-  <a href="https://erielle-joeshua-bancolita.vercel.app/" target="_blank">
+  <a href="https://sam-wade-portfolio.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/DataDog/integrations-extras/master/vercel/images/logo-full-black.png" width="100" alt="Vercel Status" />
   </a>
 </p>
@@ -93,8 +93,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@Erielle Joeshua Bancolita](https://www.linkedin.com/in/erielle-joeshua-bancolita-991515256)
-- Website - [Erielle Joeshua Bancolita](https://erielle-joeshua-bancolita.vercel.app/)
+- Linkedin - [@Erielle Joeshua Bancolita](https://www.linkedin.com/in/sam-wade-46803330a)
+- Website - [Erielle Joeshua Bancolita](https://sam-wade-portfolio.vercel.app/)
 
 Built in 2023
 
